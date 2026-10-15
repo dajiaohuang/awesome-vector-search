@@ -15,7 +15,7 @@
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
 - [Epsilla -  A High Performance Vector Database Management System, Hippocampus For AI](https://github.com/epsilla-cloud/vectordb)
 - [Vearch - A scalable distributed system for efficient similarity search of deep learning vectors](https://github.com/vearch/vearch)
-- [pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database](https://github.com/netrasys/pgANN)
+- [pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database](https://github.com/krzynio/pgANN)
 - [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
 - [Infinity -  The AI-native database built for LLM applications, providing incredibly fast vector and full-text search](https://github.com/infiniflow/infinity)
 - [Aquila DB - Distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
